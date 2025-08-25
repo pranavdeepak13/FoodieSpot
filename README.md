@@ -1,6 +1,6 @@
 # FoodieSpot AI - Restaurant Reservation System
 
-A conversational AI system for restaurant reservations and recommendations built with FastAPI and Streamlit.
+A conversational AI system for restaurant reservations and recommendations built with FastAPI and Streamlit built for SarvamAI technical interview round
 
 ## Architecture
 
